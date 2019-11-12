@@ -1,5 +1,7 @@
 # TensorFlow-Slim image classification model library
 
+另外参考网页：https://www.jianshu.com/p/7e13a498bd63
+
 [TF-slim](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/slim)
 is a new lightweight high-level API of TensorFlow (`tensorflow.contrib.slim`)
 for defining, training and evaluating complex
